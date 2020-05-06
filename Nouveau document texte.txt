@@ -1,0 +1,32 @@
+New way to exporrt component 
+module is used to apply the css only on 1 fileµ
+
+----
+
+{new Date(lastUpdate).toDateString()} transform  into readable date
+
+countup ! 
+
+---
+
+{} to make it dyanmic
+
+{{}} to make an object insice proprety
+
+check Chart.js, it has some useful propreties to get data
+
+---------
+
+if you receive an array , want to use map on it AND THEN MAKE IT AND OBJECT , check in chartjs
+
+        // you forgot to add map after dailydata to go through the array and return the content
+
+check countrypicker too for handlechange event !
+
+---
+
+in a fucntion, conditional ? ==> if statement
+
+in a const ? ternary
+
+ at first, you had something in value, but you had to remove it since the value "global didn't exist" , in country picker, option value"global" , then value=""
